@@ -1,0 +1,26 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.App {
+  text-align: center;
+  max-width: 500px;
+}
+ul {
+  list-style: none;
+}
+li {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 10px;
+  margin: 10px;
+}
+button {
+  cursor: pointer;
+}
+input {
+  padding: 10px;
+}
